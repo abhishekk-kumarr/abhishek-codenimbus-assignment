@@ -1,0 +1,6 @@
+{
+  "name": "Alia & Aryan Wedding Invitation",
+  "description": "Interactive wedding invitation celebration website for Alia Nair & Aryan Kapoor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
